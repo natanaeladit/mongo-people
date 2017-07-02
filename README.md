@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# mongo-people
+>>>>>>> ef99c4544e79c4ccc8ea6f9cc45b2b49b294decc
